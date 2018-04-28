@@ -1,5 +1,5 @@
 {
-	"name": "fuel/orm",
+	"name": "cyberschias/orm",
 	"description" : "FuelPHP 1.x ORM Package",
 	"type": "fuel-package",
 	"homepage": "https://github.com/fuel/orm",
